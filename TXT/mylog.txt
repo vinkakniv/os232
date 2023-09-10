@@ -22,3 +22,4 @@ ZCZC W01 120 L09 Weekly Assignments
 ZCZC W01 60 L15 Read materials
 ZCZC W01 180 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 15 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 130 L81 Listening music on spotify
