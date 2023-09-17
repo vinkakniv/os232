@@ -17,3 +17,10 @@ I think the Bash scripting cheatsheet is a great tool. It's perfect for beginner
 4. [Awk Tutorial](https://www.tutorialspoint.com/awk/index.htm)
 This Awk Tutorial starts by explaining what AWK is and how it works, which is perfect for beginners like me. Then, it covers things like how to use AWK, including variables, loops, and functions, in a straightforward way. Plus, it touches on some advanced topics like output redirection and pretty printing.
 
+### 🔧⚔️ **Week 02**
+1. [Protection and Security in Operating System](https://youtu.be/DKb7KhfoZmU?si=tTXA22k1yDrq-kq3)
+"Lec-8: Protection & Security in Operating System" is a useful resource for understanding the basics of OS security. This video effectively breaks down key concepts presented in the Silberschatz Slides.
+
+2. [Cyber Security Introduction (Cyber Security Part 1)](https://www.silicondojo.com/cyber-security-introduction-cyber-security-part-1/)
+This webpage offers a comprehensive introduction to cybersecurity and includes an explanatory video. 
+
