@@ -23,3 +23,12 @@ ZCZC W01 60 L15 Read materials
 ZCZC W01 180 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 15 L32 YouTube: watching OS related topics, etc.
 ZCZC W01 130 L81 Listening music on spotify
+ZCZC W02 30 L01 SCELE/Discord related
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 30 L03 GitHub related
+ZCZC W02 40 L05 Quiz related including studying
+ZCZC W02 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W02 180 L09 Weekly Assignments
+ZCZC W02 35 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 100 L81 Listening music on spotify
