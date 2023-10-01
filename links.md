@@ -31,3 +31,11 @@ This 12-minute video provides a colorful and animated introduction to Files & Fi
 2. [The Basics of File Systems](https://www.ufsexplorer.com/articles/file-systems-basics/)
 The 'Basics of File Systems' webpage is a great tool to understand how file systems help keep our digital data organized on different storage devices. It explains why we have different types of file systems and briefly talks about what makes each type unique.
 
+### 🕹️🎰 **Week 04*
+1. [Introduction to Pointers in C](https://youtu.be/f2i0CnUOniA?si=cpZz424rpPw2LmRz)
+This video simplifies pointers in C programming through clear illustrations. It's under 5 minutes and provides key insights, making it a valuable resource for learning about pointers.
+
+2. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+This link provides a clear and concise explanation of the difference between logical and physical addresses.
+
+
