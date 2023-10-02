@@ -39,4 +39,8 @@ ZCZC W03 20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 120 L09 Weekly Assignments
 ZCZC W03 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 150 L81 Listening music on spotify
-
+ZCZC W04 15 L01 SCELE/Discord related
+ZCZC W04 25 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 120 L09 Weekly Assignments
+ZCZC W04 25 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 30 L82 Reading Book (online)
