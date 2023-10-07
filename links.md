@@ -25,7 +25,7 @@ This Awk Tutorial starts by explaining what AWK is and how it works, which is pe
 This webpage offers a comprehensive introduction to cybersecurity and includes an explanatory video.
 
 ### 🎑🎞️ **Week 03*
-1. [Files & File Systems: Crash Course Computer Science ](https://youtu.be/KN8YgJnShPM?si=PG9aQ2M1itK_KBRe)
+1. [Files & File Systems: Crash Course Computer Science](https://youtu.be/KN8YgJnShPM?si=PG9aQ2M1itK_KBRe)
 This 12-minute video provides a colorful and animated introduction to Files & File Systems, making it easy for viewers to grasp these concepts. This video is a visually engaging way to understand digital data organization.
 
 2. [The Basics of File Systems](https://www.ufsexplorer.com/articles/file-systems-basics/)
@@ -37,5 +37,12 @@ This video simplifies pointers in C programming through clear illustrations. It'
 
 2. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
 This link provides a clear and concise explanation of the difference between logical and physical addresses.
+
+### 🗄️📩 **Week 05*
+1. [Virtual Memory: 3 What is Virtual Memory?](https://youtu.be/qlH4-oHnBb8?si=NIC65jC8skeafUSS)
+The virtual memory explanation was really good. It was short and easy to follow, with lots of pictures to help.
+
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+The explanation on GeeksforGeeks is highly informative. It's a really helpful resource that explains key concepts such as paging, swapping, and thrashing.
 
 
