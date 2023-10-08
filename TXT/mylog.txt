@@ -51,4 +51,4 @@ ZCZC W05 35 L05 Quiz related including studying
 ZCZC W05 50 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 100 L09 Weekly Assignments
 ZCZC W05 35 L32 YouTube: watching OS related topics, etc.
-ZCZC W03 90 L81 Listening music on spotify
+ZCZC W05 90 L81 Listening music on spotify
