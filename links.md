@@ -45,4 +45,10 @@ The virtual memory explanation was really good. It was short and easy to follow,
 2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 The explanation on GeeksforGeeks is highly informative. It's a really helpful resource that explains key concepts such as paging, swapping, and thrashing.
 
+### 🔊♣️ **Week 06**
+1. [Process Management (Processes and Threads)](https://youtu.be/OrM7nZcxXZU?si=Gwz2VJKRZWweWZAg)
+This Neso Academy's video is a clear and concise explanation of process management, processes, and threads in operating systems. It's a valuable resource for understanding these concepts.
+
+2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+This concise article offers clear insights into how the fork() function operates in C programming.
 
