@@ -52,3 +52,10 @@ This Neso Academy's video is a clear and concise explanation of process manageme
 2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
 This concise article offers clear insights into how the fork() function operates in C programming.
 
+### 💠⚜️ **Week 07**
+1. [Deadlock in Operating System | GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=qIa7jSRKkwq-ECmL)
+The video presents a detailed explanation of deadlocks and methods to resolve them. It uses an analogy of two trains heading towards each other on the same track, illustrating how they become stuck when facing each other, much like a deadlock situation in an operating system.
+
+2. [Process Synchronisation and Deadlocks](https://humphryscomputing.com/Notes/OS/synch.html)
+The website has a retro look but is still full of useful info. It might not have a lot of written explanations, but it makes up for it with clear visual guides on things like process synchronization and deadlocks.
+
