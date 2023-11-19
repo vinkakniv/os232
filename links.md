@@ -59,3 +59,10 @@ The video presents a detailed explanation of deadlocks and methods to resolve th
 2. [Process Synchronisation and Deadlocks](https://humphryscomputing.com/Notes/OS/synch.html)
 The website has a retro look but is still full of useful info. It might not have a lot of written explanations, but it makes up for it with clear visual guides on things like process synchronization and deadlocks.
 
+### ⌨️🔍 **Week 08**
+1. [How to build Linux From Scratch 11.2] (https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) 
+This playlist is extremely useful as it clarifies steps that are not detailed in the book. Its clear and simple presentation makes it easy to understand and follow the instructions. 
+2. [Linux From Scratch Book 11.2] (https://www.linuxfromscratch.org/lfs/view/11.2/)
+The book offers both a tutorial and a comprehensive guide on creating Linux from Scratch. Additionally, it serves as the primary resource for the assignment instructions in this Operating System Course.
+3. [CPU Scheduling in Operating Systems] (https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+The article is well-structured and offers an insightful and detailed overview of CPU scheduling in operating systems.
