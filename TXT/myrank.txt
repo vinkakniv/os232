@@ -19,4 +19,6 @@ ZCZC W07 rxa15
 ZCZC W07 iqzaardiansyah
 ZCZC W08 rxa15
 ZCZC W08 iqzaardiansyah
-ZCZC W08 divieurora
+ZCZC W09 divieurora
+ZCZC W09 iqzaardiansyah
+ZCZC W09 rxa15
