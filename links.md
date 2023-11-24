@@ -66,3 +66,12 @@ This playlist is extremely useful as it clarifies steps that are not detailed in
 The book offers both a tutorial and a comprehensive guide on creating Linux from Scratch. Additionally, it serves as the primary resource for the assignment instructions in this Operating System Course.
 3. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
 The article is well-structured and offers an insightful and detailed overview of CPU scheduling in operating systems.
+
+
+### 🔓🛠️ **Week 09**
+1. [Linux From Scratch Book 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/)
+Just like the previous week, the book provides both a tutorial and a comprehensive guide to creating Linux from Scratch. It also serves as the primary resource for assignment instructions this week.
+2. [How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) 
+This playlist is extremely useful as it clarifies steps that are not detailed in the book. Its clear and simple presentation makes it easy to understand and follow the instructions. 
+3. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)
+These UIC course notes concisely condense Silbershcatz's OSC10, with this link offering a more detailed look at RAID structures. It also discusses performance issues in different mass storage systems.
