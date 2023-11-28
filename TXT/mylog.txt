@@ -86,3 +86,11 @@ ZCZC W09 10 L05 QUIZ
 ZCZC W09 60 L09 Weekly Assignments
 ZCZC W09 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W09 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W10 30 L00 General, etc.
+ZCZC W10 35 L01 SCELE/Discord related
+ZCZC W10 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 20 L03 GitHub related
+ZCZC W10 10 L04 GitHub Pages related
+ZCZC W10 10 L05 QUIZ
+ZCZC W10 120 L09 Weekly Assignments
+ZCZC W10 30 L32 YouTube: watching OS related topics, etc.
