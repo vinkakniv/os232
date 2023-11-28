@@ -75,3 +75,11 @@ Just like the previous week, the book provides both a tutorial and a comprehensi
 This playlist is extremely useful as it clarifies steps that are not detailed in the book. Its clear and simple presentation makes it easy to understand and follow the instructions. 
 3. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)
 These UIC course notes concisely condense Silbershcatz's OSC10, with this link offering a more detailed look at RAID structures. It also discusses performance issues in different mass storage systems.
+
+### 🌠👋 **Week 10**
+1. [Linux From Scratch Book 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/)
+Just like the previous week, the book provides both a tutorial and a comprehensive guide to creating Linux from Scratch. It also serves as the primary resource for assignment instructions this week.
+2. [How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=tmi-W-l62VYqDqWF) 
+This playlist is extremely useful as it clarifies steps that are not detailed in the book. Its clear and simple presentation makes it easy to understand and follow the instructions. 
+3. [Operating System Concepts: I/O Systems](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch12.pptx)
+This slide helps to understand how an operating system's I/O (Input/Output) part works, talk about the basics and tricky parts of I/O hardware, and get why performance matters for both the hardware and software of I/O.
